@@ -1,0 +1,32 @@
+buildscript {
+    repositories {
+        maven{
+            url uri('InjectPlugin')
+        }
+        google()
+        jcenter()
+        mavenCentral()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:3.5.4'
+        classpath 'com.neenbedankt.gradle.plugins:android-apt:1.8'
+        // 使用代码注入插件
+        classpath 'com.android.task_inject_plugin:inject:1.0'
+    }
+}
+
+allprojects {
+    apply plugin: 'idea'
+    apply plugin: 'maven'
+    configurations {
+        deployerJars
+    }
+    repositories {
+        google()
+        jcenter()
+        mavenCentral()
+    }
+}
+
+ext {
+}

@@ -1,0 +1,28 @@
+apply plugin: 'groovy'
+apply plugin: 'maven'
+
+dependencies {
+    implementation gradleApi()
+    implementation localGroovy()
+}
+
+task sourcesJar(type: Jar) {
+    from project.file('src/main/groovy')
+    classifier = 'sources'
+}
+
+dependencies {
+    implementation 'com.android.tools.build:gradle:3.5.4'
+}
+
+uploadArchives {
+    repositories {
+        mavenDeployer {
+            pom.groupId = 'com.android.task_inject_plugin'
+            pom.artifactId = 'inject'
+            pom.version = 1.0
+            // maven本地仓库的目录
+            repository(url: uri('../InjectPlugin'))
+        }
+    }
+}

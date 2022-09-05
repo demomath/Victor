@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Victor.iml" filepath="$PROJECT_DIR$/.idea/modules/Victor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Victor.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Victor.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Victor.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Victor.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Victor.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Victor.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Victor.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Victor.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/moudle/Victor.moudle.iml" filepath="$PROJECT_DIR$/.idea/modules/moudle/Victor.moudle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/moudle/demo1/Victor.moudle.demo1.iml" filepath="$PROJECT_DIR$/.idea/modules/moudle/demo1/Victor.moudle.demo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/moudle/demo1/Victor.moudle.demo1.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/moudle/demo1/Victor.moudle.demo1.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/moudle/demo1/Victor.moudle.demo1.main.iml" filepath="$PROJECT_DIR$/.idea/modules/moudle/demo1/Victor.moudle.demo1.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/moudle/demo1/Victor.moudle.demo1.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/moudle/demo1/Victor.moudle.demo1.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/moudle/demo2/Victor.moudle.demo2.iml" filepath="$PROJECT_DIR$/.idea/modules/moudle/demo2/Victor.moudle.demo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/moudle/demo2/Victor.moudle.demo2.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/moudle/demo2/Victor.moudle.demo2.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/moudle/demo2/Victor.moudle.demo2.main.iml" filepath="$PROJECT_DIR$/.idea/modules/moudle/demo2/Victor.moudle.demo2.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/moudle/demo2/Victor.moudle.demo2.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/moudle/demo2/Victor.moudle.demo2.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/moudle/demo3/Victor.moudle.demo3.iml" filepath="$PROJECT_DIR$/.idea/modules/moudle/demo3/Victor.moudle.demo3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/moudle/demo3/Victor.moudle.demo3.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/moudle/demo3/Victor.moudle.demo3.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/moudle/demo3/Victor.moudle.demo3.main.iml" filepath="$PROJECT_DIR$/.idea/modules/moudle/demo3/Victor.moudle.demo3.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/moudle/demo3/Victor.moudle.demo3.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/moudle/demo3/Victor.moudle.demo3.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/task/Victor.task.iml" filepath="$PROJECT_DIR$/.idea/modules/task/Victor.task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/task-annotation/Victor.task-annotation.iml" filepath="$PROJECT_DIR$/.idea/modules/task-annotation/Victor.task-annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/task-annotation/Victor.task-annotation.main.iml" filepath="$PROJECT_DIR$/.idea/modules/task-annotation/Victor.task-annotation.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/task-annotation/Victor.task-annotation.test.iml" filepath="$PROJECT_DIR$/.idea/modules/task-annotation/Victor.task-annotation.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/task-plugin/Victor.task-plugin.iml" filepath="$PROJECT_DIR$/.idea/modules/task-plugin/Victor.task-plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/task-plugin/Victor.task-plugin.main.iml" filepath="$PROJECT_DIR$/.idea/modules/task-plugin/Victor.task-plugin.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/task-plugin/Victor.task-plugin.test.iml" filepath="$PROJECT_DIR$/.idea/modules/task-plugin/Victor.task-plugin.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/task-processor/Victor.task-processor.iml" filepath="$PROJECT_DIR$/.idea/modules/task-processor/Victor.task-processor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/task-processor/Victor.task-processor.main.iml" filepath="$PROJECT_DIR$/.idea/modules/task-processor/Victor.task-processor.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/task-processor/Victor.task-processor.test.iml" filepath="$PROJECT_DIR$/.idea/modules/task-processor/Victor.task-processor.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/task/task-impl/Victor.task.task-impl.iml" filepath="$PROJECT_DIR$/.idea/modules/task/task-impl/Victor.task.task-impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/task/task-impl/Victor.task.task-impl.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/task/task-impl/Victor.task.task-impl.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/task/task-impl/Victor.task.task-impl.main.iml" filepath="$PROJECT_DIR$/.idea/modules/task/task-impl/Victor.task.task-impl.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/task/task-impl/Victor.task.task-impl.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/task/task-impl/Victor.task.task-impl.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/task/task-interf/Victor.task.task-interf.iml" filepath="$PROJECT_DIR$/.idea/modules/task/task-interf/Victor.task.task-interf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/task/task-interf/Victor.task.task-interf.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/task/task-interf/Victor.task.task-interf.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/task/task-interf/Victor.task.task-interf.main.iml" filepath="$PROJECT_DIR$/.idea/modules/task/task-interf/Victor.task.task-interf.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/task/task-interf/Victor.task.task-interf.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/task/task-interf/Victor.task.task-interf.unitTest.iml" />
+    </modules>
+  </component>
+</project>
